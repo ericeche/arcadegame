@@ -25,7 +25,7 @@ The students will brainstorm the project based out of the initial design of the 
 
 ![alt text](http://www.droidaddiction.com/arcade.jpeg "Logo Title Text 1")
 
-![alt text](http://www.droidaddiction.com/arcade2.png "Logo Title Text 1")
+![alt text](http://www.droidaddiction.com/arcade2.jpeg "Logo Title Text 1")
 
 
-![alt text](http://www.droidaddiction.com/arcade3.png "Logo Title Text 1")
+![alt text](http://www.droidaddiction.com/arcade3.jpeg "Logo Title Text 1")
