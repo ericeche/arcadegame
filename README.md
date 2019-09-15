@@ -32,4 +32,4 @@ The students will brainstorm the project based out of the initial design of the 
 
 
 
-![alt text](http://www.droidaddiction.com/arcade23.jpeg "Logo Title Text 1")
+![alt text](http://www.droidaddiction.com/arcade24.jpeg "Logo Title Text 1")
