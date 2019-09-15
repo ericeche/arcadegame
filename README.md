@@ -1,4 +1,4 @@
-# Loyola High School Spanish 11-12th grade  2019-2002 Arcade Game Project
+# Loyola High School Spanish 11-12th grade  2019-2020 Arcade Game Project
 
 
 ## Scope
@@ -23,9 +23,9 @@ The students will brainstorm the project based out of the initial design of the 
 
 ### Spanish Greetings
 
-![alt text](http://www.droidaddiction.com/arcade.JPG "Logo Title Text 1")
-
 ![alt text](http://www.droidaddiction.com/arcade.jpeg "Logo Title Text 1")
 
+![alt text](http://www.droidaddiction.com/arcade2.png "Logo Title Text 1")
 
-![alt text](http://www.droidaddiction.com/arcade1.jpeg "Logo Title Text 1")
+
+![alt text](http://www.droidaddiction.com/arcade3.png "Logo Title Text 1")
