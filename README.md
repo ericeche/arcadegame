@@ -23,9 +23,9 @@ The students will brainstorm the project based out of the initial design of the 
 
 ### Spanish Greetings
 
-![alt text](http://www.droidaddiction.com/aracade.JPG "Logo Title Text 1")
+![alt text](http://www.droidaddiction.com/arcade.JPG "Logo Title Text 1")
 
-![alt text](http://www.droidaddiction.com/aracade.jpeg "Logo Title Text 1")
+![alt text](http://www.droidaddiction.com/arcade.jpeg "Logo Title Text 1")
 
 
-![alt text](http://www.droidaddiction.com/aracade1.jpeg "Logo Title Text 1")
+![alt text](http://www.droidaddiction.com/arcade1.jpeg "Logo Title Text 1")
